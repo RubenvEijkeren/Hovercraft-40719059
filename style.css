@@ -1,0 +1,44 @@
+th {
+	background-color: #E7E7E7;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-align: center;
+}
+td {
+	background-color: grey;
+	text-align: center;
+}
+.salmon {
+	background-color: salmon;
+	border-style: solid;
+	border-style: solid;
+	border-width: 1.5px;
+	color: green;
+}
+td a{
+	display: block;
+	text-decoration: none;
+	color: inherit;
+}
+a:hover {
+	background-color: #FF0000;
+	cursor: pointer;
+}
+.magenta {
+	background-color: magenta;
+	border-style: solid;
+	border-style: solid;
+	border-width: 1.5px;
+}
+.blue {
+	background-color: #00E6E8;
+	border-style: solid;
+	border-style: solid;
+	border-width: 1.5px;
+}
+.yellow {
+	background-color: yellow;
+	border-style: solid;
+	border-width: 1.5px;
+}
+
